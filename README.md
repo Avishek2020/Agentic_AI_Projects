@@ -27,18 +27,10 @@ Integrate a **web search tool** into the agent pipeline.
 ---
 
 ## 🧠 Architecture
-
-User Query
-↓
-Agent (LLM Decision)
-↓
-Tool Selection (Search API)
-↓
-Retrieve Results
-↓
-LLM Summarization
-↓
-Final Answer
+<p align="center">
+  <img src="assets/Architecture_BA.png" width="200" height="400"/>
+</p>
+ 
 
 ---
 
